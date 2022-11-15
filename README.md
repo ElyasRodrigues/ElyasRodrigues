@@ -7,6 +7,7 @@ Dev Front-End Jr
 * 🌍  I'm based in Maranhão, Brazil
 * 🖥️  See my portfolio at [Elyas Rodrigues | Dev Front-End](http://elyasrodrigues.vercel.app)
 * ✉️  You can contact me at [elyasrz11@gmail.com](mailto:elyasrz11@gmail.com)
+* 🧠  I'm learning React JS
 
 ### Skills
 
@@ -21,7 +22,7 @@ Dev Front-End Jr
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/elyasrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/oelyasrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/elyasrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/oelyasrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elyasrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
